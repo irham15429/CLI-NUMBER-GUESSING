@@ -1,0 +1,19 @@
+{
+  "name": "irham_cli-number-guessing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "publishconfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irham Ahmed",
+  "license": "ISC",
+  "description": "This is CLI based Number Guessing Game.",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  }
+}
